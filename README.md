@@ -1,5 +1,5 @@
 # Quant Projects
-# By Julian Sobczuk
+## By Julian Sobczuk
 
 This repository contains a collection of my projects in areas related to **quantitative trading**, including:
 
